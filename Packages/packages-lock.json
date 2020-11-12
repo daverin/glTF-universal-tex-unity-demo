@@ -1,13 +1,13 @@
 {
   "dependencies": {
     "com.atteneder.ktx": {
-      "version": "ssh://git@github.com/Beamm-Incorporated/KtxUnity.git#1.0.1",
+      "version": "ssh://git@github.com/Beamm-Incorporated/KtxUnity.git#1.0.2",
       "depth": 0,
       "source": "git",
       "dependencies": {
         "com.unity.modules.unitywebrequest": "1.0.0"
       },
-      "hash": "b33cb9674de7050ab6deaec640bf91d3251b36f5"
+      "hash": "98e6f1ff38a5909d3dbd3e23536e3ba5ecc0edc7"
     },
     "com.siccity.gltfutility": {
       "version": "ssh://git@github.com/daverin/GLTFUtility.git#1.1.1",
