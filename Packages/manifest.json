@@ -1,6 +1,6 @@
 {
   "dependencies": {
-    "com.atteneder.ktx": "ssh://git@github.com/daverin/KTX-Software.git#1.0.0",
+    "com.atteneder.ktx": "ssh://git@github.com/Beamm-Incorporated/KtxUnity.git#1.0.1",
     "com.siccity.gltfutility": "ssh://git@github.com/daverin/GLTFUtility.git#1.1.1",
     "com.unity.ext.nunit": "1.0.0",
     "com.unity.ide.visualstudio": "2.0.3",
